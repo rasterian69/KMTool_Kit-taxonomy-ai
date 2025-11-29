@@ -151,3 +151,8 @@ You now have a fully local, private, AI-enhanced document classification system 
 - **ChromaDB**
 - **Python**
 - **Your custom Knowledge Taxonomy**
+
+  # YOUR PROJECT TITLE
+#### Video Demo:  https://kmpro.ca/2025/11/28/cs50x-final-project/
+#### Description: This project builds an **AI-powered document classification system**. 
+
